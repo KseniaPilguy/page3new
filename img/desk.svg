@@ -1,0 +1,16 @@
+<svg width="86" height="86" viewBox="0 0 86 86" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<rect x="13.0398" y="7.58789" width="59.9315" height="48.3658" rx="1"/>
+</mask>
+<rect x="13.0398" y="7.58789" width="59.9315" height="48.3658" rx="1" fill="white" stroke="black" stroke-width="6" mask="url(#path-1-inside-1)"/>
+<mask id="path-2-inside-2" fill="white">
+<rect x="9.89429" y="52.7947" width="65.1886" height="16.8229" rx="1"/>
+</mask>
+<rect x="9.89429" y="52.7947" width="65.1886" height="16.8229" rx="1" fill="white" stroke="black" stroke-width="6" mask="url(#path-2-inside-2)"/>
+<path d="M65.8491 16.6802H21.4785V48.536" stroke="black" stroke-width="2"/>
+<rect x="20.3618" y="14.8943" width="45.3143" height="33.7486" rx="1" stroke="black" stroke-width="2"/>
+<path d="M52.4717 61.2114H66.666" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.303 61.2114H26.7144" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2 79.0849L12.5143 68.0449H73.4972L63.2588 78.7953C63.0817 78.9812 62.9829 79.2282 62.9829 79.4849V83.8164H2V79.0849Z" fill="white" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65.5987 84.8666H61.393L62.9702 79.0837L71.3816 68.0437V8.63792L13.553 8.1122L23.5416 0.752197H77.8445C79.5013 0.752197 80.8445 2.09535 80.8445 3.7522V49.118H84.0502C84.6025 49.118 85.0502 49.5657 85.0502 50.118V68.6185C85.0502 68.92 84.9142 69.2054 84.68 69.3953L65.5987 84.8666Z" fill="black" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
